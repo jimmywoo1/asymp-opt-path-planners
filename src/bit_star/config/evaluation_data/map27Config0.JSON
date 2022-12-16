@@ -1,0 +1,21 @@
+{
+    "max_num_steps": 20000,
+    "batch_size": [
+        30,
+        0,
+        500
+    ],
+    "output_data_file": "../results/evaluation_data/test.csv",
+    "final_vals_output_data_file": "../results/evaluation_data/test_final_vals.csv",
+    "map_file": "../Maps/evaluation_data/map_28_multibugtrap.png",
+    "start_state": [
+        41,
+        104
+    ],
+    "dest_state": [
+        196,
+        196
+    ],
+    "overall_test_num": 22705,
+    "test_num": 6
+}
